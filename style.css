@@ -120,14 +120,15 @@ body {
 
 
 
+
 /* Responsividade */
 @media (max-width: 600px) {
     .number {
         width: 20vw; /* Ajusta a largura em relação à largura da viewport para dispositivos menores */
         height: 20vw; /* Ajusta a altura em relação à largura da viewport para dispositivos menores */
         max-width: 40px; /* Largura máxima em pixels para dispositivos menores */
-        max-height: 40px; 
-        line-height: 30px; 
+        max-height: 40px; /* Altura máxima em pixels para dispositivos menores */
+        line-height: 30px; /* Centraliza o texto verticalmente para dispositivos menores */
     }
 
     #resetButton, #downloadPDFButton {
