@@ -4,28 +4,6 @@ Sistema WEB para avaliação do grau de conformidade de uma organização à Lei
 
 ---
 
-## Iniciando o projeto
-
-Antes de começar a programar, dê uma olhada nos guias abaixo para manter um ambiente de desenvolvimento mais padronizado e coerente:
-
-* **Entendendo as Labels**
-* **Como criar uma issue**
-* **Como me atribuir a uma issue**
-* **Como criar uma merge request**
-* **Como submeter para revisão uma merge request**
-* **Boas práticas nos commits**
-
----
-
-## Estrutura do projeto
-
-O projeto divide-se em 2 diretórios principais:
-
-* **AdequaPD-core** – Local onde está toda a lógica do micro-SaaS: controllers, models, migrations, seeders, autenticação, geração de relatórios de aderência à LGPD e integrações com bancos de dados.
-* **AdequaPD-web** – Parte web do projeto, onde estão as views, páginas, assets, componentes, scripts front-end, integração com Inertia.js e toda a camada de interface.
-
----
-
 ## Modelagem das interfaces
 
 A modelagem das interfaces é feita através do **Figma**, ferramenta de design colaborativa baseada na nuvem.
